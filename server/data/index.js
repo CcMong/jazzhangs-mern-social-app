@@ -142,6 +142,7 @@ export const users = [
   },
 ];
 
+
 export const posts = [
   {
     _id: new mongoose.Types.ObjectId(),
